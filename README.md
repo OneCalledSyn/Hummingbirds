@@ -4,6 +4,8 @@ A simple game where a human player controls a hummingbird and tries to get as mu
 
 Movement Controls:
 
+
+
 Forward/Backward: W/S
 
 Left/Right: A/D
